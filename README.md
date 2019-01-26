@@ -1,5 +1,5 @@
 # ProyectoVueBlancaAbril
-```
+
 ## Proyecto en produccion
 [Link en produccion](https://gracious-nightingale-c91ed1.netlify.com)
 
@@ -28,5 +28,3 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
